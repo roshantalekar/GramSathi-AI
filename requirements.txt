@@ -1,23 +1,8 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "0f1358f7-4555-4d3a-ad4f-4bfac265467b",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "",
-   "name": ""
-  },
-  "language_info": {
-   "name": ""
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+folium
+streamlit-folium
+plotly
